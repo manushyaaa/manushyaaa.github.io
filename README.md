@@ -1,1 +1,2 @@
- 
+# manushyaaa 
+Tech Blog
